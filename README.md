@@ -1,17 +1,33 @@
-# Endless Protocol Demo Repo
+# Endless Protocol Contributions
 
-This repository is a community contribution inspired by [@EndlessDevTeam](https://x.com/EndlessDevTeam).  
-The goal is to showcase how developers can start contributing to Endless Protocol.  
+🌌 What is Endless Protocol?
 
-## Features
-- Example smart contract
-- Example front-end integration
-- Documentation starter
+Endless is a decentralized AI & Web3 infrastructure project that builds:
 
-## How to Run
-1. Clone this repo  
-2. Install dependencies  
-3. Run the demo  
+Agentic AI Frameworks for autonomous and interactive agents.
 
-## Contribution
-Feel free to fork this repo and submit a Pull Request (PR).
+Privacy & Data Layers with zero-knowledge proofs.
+
+Tokenized Incentives to align creators, developers, and communities.
+
+Applications like Luffa (SocialFi) and integrations (e.g. Stability AI).
+
+
+🛠️ Why this repo exists
+
+This repository is a personal contribution playground to explore:
+
+How to build simple apps / agents using Endless concepts.
+
+Documentation and notes about Endless architecture.
+
+Experimenting with commits, PRs, and open-source collaboration.
+
+
+🚀 Next Steps
+
+Create example agentic workflows.
+
+Add tutorials and references from Endless whitepaper.
+
+Expand community contributions.
