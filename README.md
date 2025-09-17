@@ -1,4 +1,4 @@
-## Endless Protocol Contributions
+# Endless Protocol Contributions
 
 🌌 What is Endless Protocol?
 
@@ -13,7 +13,7 @@ Tokenized Incentives to align creators, developers, and communities.
 Applications like Luffa (SocialFi) and integrations (e.g. Stability AI).
 
 
-# 🛠️ Why this repo exists
+## 🛠️ Why this repo exists
 
 This repository is a personal contribution playground to explore:
 
@@ -24,7 +24,7 @@ Documentation and notes about Endless architecture.
 Experimenting with commits, PRs, and open-source collaboration.
 
 
-# 🚀 Next Steps
+## 🚀 Next Steps
 
 Create example agentic workflows.
 
